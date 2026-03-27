@@ -10,7 +10,7 @@ This project demonstrates how to build, containerize, and deploy a simple Flask-
 3) Pushed the image to container registy
 4) Deployed the application to Google Cloud Run
 > Created a service on cloud run, configured it and deployed the application
-5)M Monitored the application using cloud run
+5) Monitored the application using cloud run
 
 ### What I changed
 The original "Hello World" Flask app was modified into a simple calculator that performs basic arithmetic operations via API endpoints.
